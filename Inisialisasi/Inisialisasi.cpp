@@ -23,7 +23,7 @@ public:
 
 int main()
 {
-    mahasiswa mhs(12, "Ronny Jonny", 90.5);
+    mahasiswa mhs(12, "Betrand Peto Steven Zakhaev", 90.5);
 
     return 0;
 }
