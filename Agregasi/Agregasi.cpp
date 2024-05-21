@@ -10,7 +10,7 @@ int main()
     ibu* varIbu2 = new ibu("niki ngekost cibaduyut");
     anak* varAnak1= new anak("bodat ngajoak kieu");
     anak* varAnak2= new anak("siti karbu supra");
-    anak* varAnak3 = new anak("rozak kopling cbr");
+    anak* varAnak3 = new anak("rozak kopling sujuki");
 
     varIbu->tambahAnak(varAnak1);
     varIbu->tambahAnak(varAnak2);
